@@ -1,0 +1,8 @@
+last 2 major versions
+not dead
+not IE 11
+> 0.5%
+not op_mini all
+not and_uc > 11.8
+supports es6-module
+supports css-grid
