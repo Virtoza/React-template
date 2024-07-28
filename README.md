@@ -1,6 +1,6 @@
 # React.Dev
 
-<img style="float: right;" src="555.png">
+<img align="right" width="100" height="100" src="./555.png">
 
 Стек: Zustand, React-router-dom, TailwindCSS
 
